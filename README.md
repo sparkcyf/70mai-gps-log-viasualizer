@@ -2,6 +2,8 @@
 
 一个本地优先的 70mai GPS 日志浏览器。它把 `$V02` 日志块解析为独立行程，并在同一时间游标下联动显示路线、速度和合成 G 值。
 
+<img src="docs/images/demo-screenshot.png" alt="Location-free GPS log structural profile" style="zoom:50%;" />
+
 ## 使用
 
 ```bash
